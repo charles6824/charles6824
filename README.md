@@ -1,6 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Charles Ekom Charles
 =======================================================================================================================================
 
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/charles6824"><img src="https://github-readme-stats.vercel.app/api?username=charles6824&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Charles's GitHub stats" /></a>
+
+<a href="http://www.github.com/charles6824"><img src="https://github-readme-streak-stats.herokuapp.com/?user=charles6824&stroke=ffffff&background=1e3a8a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charles6824&hide=TeX&layout=compact&theme=synthwave)
+
 Fullstack Developer (MERN || MEAN)
 ------------------
 
@@ -77,16 +87,6 @@ January 2021
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/charles6824" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/charlescharles/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/charles6824"><img src="https://github-readme-stats.vercel.app/api?username=charles6824&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Charles's GitHub stats" /></a>
-
-<a href="http://www.github.com/charles6824"><img src="https://github-readme-streak-stats.herokuapp.com/?user=charles6824&stroke=ffffff&background=1e3a8a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/charles6824"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=charles6824&bg_color=1e3a8a&color=ffffff&line=ef4444&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Charles' GitHub Commits Graph" /></a>
 
 <a href="https://github.com/charles6824" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles6824&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
