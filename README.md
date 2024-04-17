@@ -86,7 +86,7 @@ January 2021
 
 <a href="http://www.github.com/charles6824"><img src="https://github-readme-streak-stats.herokuapp.com/?user=charles6824&stroke=ffffff&background=1e3a8a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/charles6824"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=charles6824&bg_color=1e3a8a&color=ffffff&line=ef4444&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Charles' GitHub Commits Graph" /></a>
+<a href="https://github.com/charles6824"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=charles6824&bg_color=1e3a8a&color=ffffff&line=ef4444&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Charles' GitHub Commits Graph" /></a>
 
 <a href="https://github.com/charles6824" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles6824&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
