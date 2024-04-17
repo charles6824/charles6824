@@ -21,6 +21,10 @@ I’m an Efficient and reliable Software Developer with proven experience in Fro
 
 * 🌍  I'm based in Lagos
 * ✉  You can contact me at [charlescharlesy@gmail.com](mailto:charlescharlesy@gmail.com)
+* 👯 Looking to collaborate on exciting projects
+* 💪 Daily improving Algo skills
+* 💬 Open to talk about Technical Writing, Javascript, Node.js, React, Angular, PES/FIFA, General Growth.
+* 🎵 Enjoys Listening to Fire Boy and Johnny Drille
 
 ### Skills
 - **Frontend Development:** React, Angular, JavaScript, jQuery, HTML, CSS, Tailwind CSS, Bootstrap, Material UI, Chakra UI, Shadcn
