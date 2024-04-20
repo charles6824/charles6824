@@ -93,6 +93,4 @@ January 2021
 
 <p align="left"> <a href="https://www.github.com/charles6824" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/charlescharles/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 
-<a href="https://github.com/charles6824" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles6824&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"></div><br /><br />
