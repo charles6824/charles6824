@@ -10,8 +10,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="http://www.github.com/charles6824"><img src="https://github-readme-streak-stats.herokuapp.com/?user=charles6824&stroke=ffffff&background=1e3a8a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![GitLab Activity](https://gitlab.fasylgroup.com/users/charles.charles/calendar)](https://gitlab.fasylgroup.com/users/charles.charles/calendar)
-
 
 
 Fullstack Developer (MERN || MEAN)
